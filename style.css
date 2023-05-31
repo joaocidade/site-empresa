@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+div{
+    width: 100%;
+    height: 400px;
+    background-repeat: no-repeat;
+    display: block;
+    background-image:url(https://cumbucca.com.br/wp-content/uploads/2021/02/3_Venda-do-Bininho-credito-acervo-pessoal.jpeg);
+}   
+div h1{
+    padding-top: 200px;
+    padding-left: 38%;
+    color: whitesmoke;
+    text-shadow: 2px 4px black;
+}
+
