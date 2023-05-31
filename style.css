@@ -2,8 +2,9 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    
 }
-div{
+header div{
     width: 100%;
     height: 400px;
     background-repeat: no-repeat;
@@ -17,3 +18,29 @@ div h1{
     text-shadow: 2px 4px black;
 }
 
+main article{
+    width: 90%;
+    display: block;
+    float: left;
+    margin-left: 5%;
+}
+main article div{
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+    margin-top: 30px;
+    background-image: url(https://www.sogipa.com.br/web/imgs/imagens/imagens60622ba8_2.jpeg);
+}
+h2{
+    margin-top: 20px;
+    padding-top: 10px;
+    font-size: 30px;
+}
+h3{
+ 
+ font-size: 20px;
+}
+main article p{
+    font-size: 15px;
+    padding-top: 10px;
+}
